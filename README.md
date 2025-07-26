@@ -3,11 +3,11 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.8+-green.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)
-![Prize](https://img.shields.io/badge/Prize-$1,000,000-gold.svg)
+
 
 ## 🚀 State-of-the-Art Multi-Task Polymer Property Prediction
 
-This repository contains our cutting-edge solution for the **NeurIPS 2025 Open Polymer Prediction Challenge**, competing for the **$1,000,000 prize**. Our approach leverages the latest advances in graph neural networks, transformer architectures, and multi-modal learning to predict five critical polymer properties from SMILES representations.
+This repository contains our cutting-edge solution for the **NeurIPS 2025 Open Polymer Prediction Challenge**. Our approach leverages the latest advances in graph neural networks, transformer architectures, and multi-modal learning to predict five critical polymer properties from SMILES representations.
 
 ## 📊 Challenge Overview
 
@@ -212,7 +212,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For questions or collaborations:
 - Create an issue in this repository
-- Email: [your-email@example.com]
+- Email: lorenzo.detomasi@outlook.com
 
 ---
 
